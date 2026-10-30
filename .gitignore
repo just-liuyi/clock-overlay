@@ -8,3 +8,7 @@ portable
 
 # Python 缓存
 __pycache__/
+
+# 仅保留在本地，不发布
+docs/
+测试清单.md
