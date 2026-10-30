@@ -1,0 +1,10 @@
+# 构建产物（exe 通过 GitHub Release 发布）
+out/
+
+# 本地配置 / 便携标记
+*.ini
+*.ini.tmp
+portable
+
+# Python 缓存
+__pycache__/
